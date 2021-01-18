@@ -4,21 +4,26 @@ Kinter_demo is a sample app written in python using the Tkinter(a standard pytho
 
 ## Installation
 Install python3 
-Ubuntu: 
+## Ubuntu:
+```
 sudo apt update
 sudo apt install software-properties-common
 sudo add-apt-repository ppa:deadsnakes/ppa
 sudo apt install python3.8
+```
 
-Mac
+##Mac
+```
 brew install pyenv
 🍺  /usr/local/Cellar/pyenv/1.2.10: 634 files, 2.4MB
 pyenv install 3.7.3
 set it to global default:
  pyenv global 3.7.3
+ ```
 
-Install Tkinter 
+```Install Tkinter 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install tkinter
+```
 
 ```bash
 Ubuntu
