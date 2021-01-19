@@ -36,7 +36,7 @@ brew install tcl-tk
 ## Usage and Dependencies
 
 ```python
-git clone https://github.com/ReevesAk/kinter_demo
+git clone https://github.com/ReevesAk/kinter_demo.git
 
 ## Run code
 python kinter.py or python3 kinter3 depending on the version of python installed on your machine
