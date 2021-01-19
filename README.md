@@ -39,7 +39,7 @@ brew install tcl-tk
 git clone https://github.com/ReevesAk/kinter_demo.git
 
 ## Run code
-python kinter.py or python3 kinter3 depending on the version of python installed on your machine
+```python kinter.py``` or ```python3 kinter.py``` depending on the version of python installed on your machine
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
