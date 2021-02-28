@@ -29,6 +29,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install tkinter
 Ubuntu
 pip install tkinter
 
+```bash
 Mac
 brew install tcl-tk
 ```
