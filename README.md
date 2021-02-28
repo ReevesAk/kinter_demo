@@ -12,7 +12,7 @@ sudo add-apt-repository ppa:deadsnakes/ppa
 sudo apt install python3.8
 ```
 
-##Mac
+## Mac:
 ```
 brew install pyenv
 🍺  /usr/local/Cellar/pyenv/1.2.10: 634 files, 2.4MB
